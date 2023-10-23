@@ -1,2 +1,2 @@
 config:
-  info: "master branch,SpringCloudConfig/config-dev.yml version=refreshScope,nb" 
+  info: "master branch,SpringCloudConfig/config-dev.yml version=refreshScope,nb,bus" 
